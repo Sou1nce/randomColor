@@ -1,3 +1,5 @@
+aler("Press button'space' to update color")
+
 const cols = document.querySelectorAll('.col')
 
 document.addEventListener('keydown', event => {
